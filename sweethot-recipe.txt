@@ -1,1 +1,2 @@
 a new sweethot chilli - now we want conflict, so that two users are modifying the same line, yes this line a new sweethot chilli, I am the other user(disguise me)
+now creating a pull request scenario
