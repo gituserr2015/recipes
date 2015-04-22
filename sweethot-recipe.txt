@@ -1,1 +1,1 @@
-a new sweethot chilli
+a new sweethot chilli - now we want conflict, so that two users are modifying the same line, yes this line
